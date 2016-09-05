@@ -1,0 +1,20 @@
+.loginsignup {
+  width: 100%;
+  margin: 10px auto; }
+
+.vertical-center {
+  min-height: 100vh;
+  margin: 0;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center; }
+
+.signinlogin {
+  height: 290px; }
+
+.signup {
+  padding: 5% 0; }
+
+.login {
+  padding: 10% 0; }
